@@ -1,12 +1,9 @@
-# learning-progress
-self learning
-## Topics
-- Networking basics
+## Current focus
 - Cyber security fundamentals
-- Risk & security concepts
-- Labs and practice exercises
+- Risk & threat awareness
+- Networking basics
+- Preparing for HNC Computing (Level 4)
 
-- ## Goal
-- Build a strong foundation to progress into a Bachelor's degree
-and eventually complete a Master's in Cyber Security.
+## Learning style
+Self-study, structured notes, and practical understanding.
 
